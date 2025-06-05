@@ -16,7 +16,7 @@ https://github.com/juacamole
 ### :shipit: Interests
 
 - Fullstack Developing
-- 
+- Internet Security
 
 ### 🔧 Tech Stack
 
